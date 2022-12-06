@@ -1,0 +1,2 @@
+#!/bin/bah
+egrep -c "bin" /etc/passwd
